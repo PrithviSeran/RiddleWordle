@@ -1,7 +1,16 @@
-# RiddleWordle
-A game inspired by Wordle. A riddle is shown and the user has to guess what the answer to the riddle is. 
+# RIDDLE GAME
+#### Video Demo:  https://youtu.be/lRC35PkArYc 
+#### Description: 
 
-The user will have a total of 5 attempts to solve each riddle. If all 5 attempts are used, the answer will be shown on the screen and the user will be prompted to move on to the 
-next question. 
+Riddle Game!
 
-This program uses local storage, similar to the actual Wordle, so all the progress made by the user is saved. 
+A game based on 'Wordle'. 
+
+The player is shown a riddle, and the number of text boxes where the answer to the riddle should be filled in. The player is given 5 lives
+to guess the answer to the riddle. 
+
+If the player does not succeed in solving the riddle within 5 attempts, the answer will be shown and the game will proceed to the next
+riddle. 
+
+All progress will be stored in the cache. 
+
