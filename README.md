@@ -2,6 +2,8 @@
 #### Video Demo:  https://youtu.be/lRC35PkArYc 
 #### Description: 
 
+This is my first full-stack development project!
+
 Riddle Game!
 
 A game based on 'Wordle'. 
